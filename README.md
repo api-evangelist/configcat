@@ -64,5 +64,29 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ConfigCat is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://configcat.com/
+ConfigCat provides a feature flag management service that enables developers and product teams to toggle features on or off in real time without deploying new code. It offers unlimited seats, robust SDKs across many languages, targeting rules based on user attributes, A/B testing, and a user-friendly dashboard. Pricing includes a free tier with core functionality and paid plans for advanced needs, making it suitable for startups to enterprises.
+
+**Areas:** Feature-Flag · SaaS · Developer-Tools · API · Cloud
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://configcat.com/)
+- [Documentation](https://configcat.com/docs/)
+- [Getting started](https://configcat.com/docs/getting-started/)
+- [API reference](https://configcat.com/docs/api/reference/configcat-public-management-api/)
+- [Pricing](https://configcat.com/pricing/)
+- [Support](https://configcat.com/support/)
+- [Blog](https://configcat.com/blog/)
+- [Security](https://configcat.com/bounty/)
+- [Trust centre](https://configcat.com/trust-center/)
+- [Privacy policy](https://configcat.com/policies/privacy/)
+- [GitHub](https://github.com/configcat)
+- [Status](https://status.configcat.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/configcat/](https://apis.io/providers/configcat/).
